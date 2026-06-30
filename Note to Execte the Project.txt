@@ -1,0 +1,27 @@
+1. Location of Project code in virtual environment:
+------------------------------
+C:\Workspace_2\Rogic\python-library\rogic-camera\robocam_face_app
+
+
+2. Activate the environment from this folders:
+------------------------------------------------------------------
+(.venv) C:/Workspace_2/Rogic/python-library/rogic-camera>
+
+
+3. npm install
+
+(.venv) C:\Workspace_2\Rogic\python-library\rogic-camera>cd robocam_face_app
+
+npm install
+
+
+4.  run npm
+----------
+npm run dev
+
+5. Start the application
+-------
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://100.100.100.36:5173/
+  ➜  Network: http://192.168.4.2:5173/
+
